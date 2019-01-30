@@ -1,2 +1,2 @@
-# COURSERA-TEST
+# COURSERA-ASSIGNMENT
 Coursera assignment 2
